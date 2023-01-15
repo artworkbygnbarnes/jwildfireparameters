@@ -1,4 +1,4 @@
-# jwildfire-parameters
+# jwildfire parameters
 JWildfire Parameters
 
 Linked Projects/Wiki
