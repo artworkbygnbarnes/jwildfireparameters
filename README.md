@@ -2,4 +2,4 @@
 JWildfire Parameters
 
 Linked Projects/Wiki
-https://github.com/artworkbygnbarnes/jwildfire-parameters/wiki
+https://github.com/artworkbygnbarnes/jwildfireparameters/wiki
