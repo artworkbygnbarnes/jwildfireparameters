@@ -1,5 +1,6 @@
 A page for those using JWildfire fractal software created by Andreas Maschke
-jwildfire.overwhale.com
+
+https://jwildfire.overwhale.com
 
 # jwildfire parameters
 JWildfire Parameters (The JWildfire Art Project)
